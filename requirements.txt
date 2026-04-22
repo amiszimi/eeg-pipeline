@@ -1,1 +1,7 @@
-requirements.txt
+mne
+numpy
+scipy
+matplotlib
+pandas
+scikit-learn
+jupyterlab
